@@ -8,7 +8,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Stockity é confiável e foi desenvolvida para simplificar o trading. Como corretora moderna, permite que os usuários acessem ativos financeiros em tempo real, acompanhem gráficos detalhados e apliquem estratégias variadas por meio da Stockity app.</p>
+<p><strong><a href="https://corretora-stockity.com/">Stockity</a></strong> é confiável e foi desenvolvida para simplificar o trading. Como corretora moderna, permite que os usuários acessem ativos financeiros em tempo real, acompanhem gráficos detalhados e apliquem estratégias variadas por meio da Stockity app.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -20,7 +20,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-![pic 1 2](https://github.com/user-attachments/assets/a9978603-161a-4504-9db1-9a79ccb6fc57)
+[![pic 1 2](https://github.com/user-attachments/assets/a9978603-161a-4504-9db1-9a79ccb6fc57)](https://corretora-stockity.com/)
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -47,6 +47,10 @@
 
 <!-- wp:paragraph -->
 <p>Essa abordagem garante que qualquer usuário, independentemente da experiência, possa aprender e operar com segurança.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/1fb42b22-c220-42dd-b5db-bc5a7252222f" />
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -93,7 +97,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ganhos do programa de afiliado Stockity:</p>
+<p>Ganhos do programa de afiliado <strong><a href="https://corretora-stockity.com/">Stockity</a></strong>:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -119,7 +123,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-![pic 3 2](https://github.com/user-attachments/assets/f6e97481-5649-4855-91e5-2b7246c11594)
+[![pic 3 2](https://github.com/user-attachments/assets/f6e97481-5649-4855-91e5-2b7246c11594)](https://corretora-stockity.com/)
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -131,5 +135,9 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Stockity combina tecnologia, flexibilidade e oportunidades reais de lucro em uma só plataforma. Desde o login inicial na Stockity até o uso de recursos avançados, como demo trading e robot, cada detalhe foi pensado para tornar o trading acessível e eficiente. Com conta demo, versão mobile, desktop e programa de afiliados, os usuários podem explorar o mercado de forma completa e segura, aproveitando todo o potencial da plataforma.</p>
+<p><strong><a href="https://corretora-stockity.com/">Stockity</a></strong> combina tecnologia, flexibilidade e oportunidades reais de lucro em uma só plataforma. Desde o login inicial na Stockity até o uso de recursos avançados, como demo trading e robot, cada detalhe foi pensado para tornar o trading acessível e eficiente. Com conta demo, versão mobile, desktop e programa de afiliados, os usuários podem explorar o mercado de forma completa e segura, aproveitando todo o potencial da plataforma.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/1fb42b22-c220-42dd-b5db-bc5a7252222f" />
 <!-- /wp:paragraph -->
