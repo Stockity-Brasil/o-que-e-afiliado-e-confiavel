@@ -50,7 +50,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/1fb42b22-c220-42dd-b5db-bc5a7252222f" />
+[<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/1fb42b22-c220-42dd-b5db-bc5a7252222f" />](https://corretora-stockity.com/)
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -139,5 +139,5 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/1fb42b22-c220-42dd-b5db-bc5a7252222f" />
+[<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/1fb42b22-c220-42dd-b5db-bc5a7252222f" />](https://corretora-stockity.com/)
 <!-- /wp:paragraph -->
